@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : SCCC Denicolo
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20081210
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="icon" type="image/png" href="Images/apple_teaching.png">
+  <title>SCCC - Prof. Denicol&oacute</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+
+<div id="wrapper">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="http://www2.sunysuffolk.edu/denicog/images/Denicolo.png">Glenda Denicol&oacute</a></h1>
+      <p>&nbsp <a href="http://depthome.sunysuffolk.edu/Selden/PhysicalScience/index.html"><font color=#99CCFF>Department of Physical Sciences</font></a></p>
+      <a href="http://www3.sunysuffolk.edu/index.asp">
+      <img src='images/sccc_logo_mod2.png' width=158 height=56 border=0 alt=''></a>
+    </div>
+  </div>
+  <!-- end #header -->
+  <div id="menu">
+    <ul>
+      <li><a href="index.html"><b>HOME</b></a></li>
+      <li><a href="phy101.html"><b>PHY 101</b></a></li>
+      <li><a href="phy110.html"><b>PHY 110</b></a></li>
+      <li><a href="phy115.html"><b>PHY 115</b></a></li>
+      <li><a href="phy130.html"><b>PHY 130</b></a></li>
+      <li><a href="phy132.html"><b>PHY 132</b></a></li>
+      <li><a href="phy245.html"><b>PHY 245</b></a></li>
+      <li><a href="ast101.html"><b>AST 101</b></a></li>
+    </ul>
+  </div>
+  <!-- end #menu --> </b>
+  <div id="page">
+
+
+    <div id="content">
+
+
+
+      <div class="post">
+	<h1>PHY 101 - College Physics I</h1>
+      
+      <h6><em>All material presented here is intended for students of Suffolk County Community College ONLY.<br>
+      Do NOT use/copy/reproduce it otherwise.</em></h6>
+
+
+      <hr>
+     
+
+      <h2>Course Documents</h2>
+	<div class="entry">
+
+        <p><a href="Docs/syllabusPHY101.pdf">Course Syllabus</a> and <a href="Docs/grading_guidelines.pdf">Grading Guidelines</a> </p>
+
+        <p><b>*** Course Outline ***</b> for <a href="outlines/co101_fall12.pdf">night CRN 90979</a> <br>
+        <!-- 
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="outlines/co101_TRnight.pdf"> Section 103 (CRN 22523)</a><br>
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="outlines/co101_MWnight.pdf"> Section 101 (CRN 26052)</a><br>
+		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="outlines/co101_summer.pdf"> <b>Summer section (CRN 60386)</b></a><br>
+        --> 
+
+	
+        <p>Do you need <b>graph paper</b>? Choose (<a href="Docs/graph_paper_1.pdf">10 lines/cm</a>, 
+           <a href="Docs/graph_paper_2.pdf">5 lines/cm</a>, <a href="Docs/graph_paper_3.pdf">8 lines/inch</a>) and print.
+
+	  <p><b>DOCUMENTS PRESENT IN D2L AND POSTED HERE FOR NIYATI DESAI:</b></p>
+
+	  <ul>
+		<li><a href="phy101student/equations.pdf">List of equations</a> <br>
+		<li><a href="phy101student/even_number_answers_ed9.pdf">Answers to even-numbered problems in the textbook (9th ed)</a> <br>
+		<li><a href="phy101student/Example_Test1.pdf">Example of an old test 1</a> <br>
+		<li><a href="phy101student/Example_Test3.pdf">Example of an old test 3</a> <br>
+		<li><a href="phy101student/Example_Test4.pdf">Example of an old test 4</a> <br>
+		<li><a href="phy101student/Example_Test5.pdf">Example of an old test 5</a> <br>
+		<li><a href="phy101student/EC1.pdf">Extra credit 1</a> <br>
+		<li><a href="phy101student/EC2_b.pdf">Extra credit 2</a> <br>
+		<li><a href="phy101student/EC3_b.pdf">Extra credit 3</a> <br>
+		<li><a href="phy101student/EC4_b.pdf">Extra credit 4</a> <br>
+		<li><a href="phy101student/EC5_b.pdf">Extra credit 5</a> <br>
+	  </ul>
+
+         
+       <h2>Labs</h2>
+       <h6>
+       <p>1) <a href="phy101student/lab1a_101.pdf">One dimensional horizontal motion (<em>x</em> versus <em>t</em>)</a> 
+       <p>2) <a href="phy101student/lab1b_101.pdf">One dimensional horizontal motion (<em>v</em> versus <em>t</em>)</a> 
+       <p>3) <a href="phy101student/lab3a_101.pdf">One dimensional vertical motion (ball toss, get <em>g</em>)</a>  
+       <p>4) <a href="phy101student/lab4_101.pdf">Two dimensional motion (projectile motion)</a>  
+       <p>5) <a href="phy101student/lab5b_101.pdf">Newton's second law (force sensor, accelerometer)</a>  
+       <p>6) <a href="phy101student/lab6_101.pdf">Coefficient of static and kinetic friction (force sensor)</a>  
+       <p>7) <a href="phy101student/lab7d_101.pdf">Work and energy (air tracks)</a>  
+       <p>8) <a href="phy101student/lab8_101.pdf">Impulse and momentum (force sensor, motion detector)</a>  
+       <p>9) <a href="phy101student/lab9_101.pdf">Types of collisions (air tracks)</a>  
+       <p>10) <a href="phy101student/lab10c_101.pdf">Determining the centripetal force (special apparatus)</a>
+       </h6>
+
+
+
+      <hr>
+
+      <h2>Enhanced WebAssign</h2> <br>
+
+       <b>The following information is only important for CRN 90979 students.</b><br>	
+       This professor will assign online homework frequently and grade them all, therefore <u>you must obtain access to WebAssign</u>. In order to register in WebAssign and start your homework assignments you will need:
+       <ul>
+	<li>Class Key code: sent to your sunysuffolk.edu e-mail address;</li>
+        <li>Access code: must be purchased separately (<a href="http://www.webassign.net/pricing/">~$39</a>), or <a href="http://www.cengagebrain.com/shop/en/US/storefront/US?cmd=CLHeaderSearch&fieldValue=17534683621981838241480452631045608932&relatedBestBuyPackage=relatedBestBuyPackage&headerTitle=College+Physics%2C+Hybrid+%28with+Enhanced+WebAssign+Homework+and+eBook+LOE+Printed+Access+Card+for+Multi+Term+Math+and+Science%29%2C+9th+Edition"> with textbook</a>.</li></ul>
+
+ Watch the video below to understand how to login and start your homework assignment:</p>
+
+<a href="http://www.wadsworthmedia.com/tlc/EWA_StudentVideos/Self_Enrollment/EWA_Student_SelfEnrollment.html"> http://www.wadsworthmedia.com/tlc/EWA_StudentVideos/Self_Enrollment/EWA_Student_SelfEnrollment.html  </a>
+
+      <hr>
+
+      <h2>Lectures</h2> <br>
+ 
+      Required textbook for PHY101 & PHY102:
+      <div id="booktext">
+      <p><img src='Images/serway9.jpg' class="box" border=1>
+
+      <h5><b>College Physics, NINTH EDITION</b><br>
+      by Serway & Vuille<br>
+      Publisher: Brooks/Cole - Cengage Learning<br> </h5>
+      <br>
+      <b>ISBN 978-1-111-57207-5</b><br>
+      <BR>
+      The picture shows the cover of the version that combines volumes 1 + 2. The price is about U$130 for this version (each students should investigate prices independently).<br>
+      
+      <p>If you plan to take PHY102 in the future, you will probably save money if
+      you buy the combined volume version such as in the picture. If you only need to take PHY101, 
+      you may save money purchasing only Volume 1 (not shown, you must investigate by yourself, <b>ISBN 978-0-8400-6848-4</b>).  </p>
+
+      The HYBRID version includes access to WebAssign in its price. <font color="red">This professor will assign online homework frequently
+      and grade them all, therefore YOU MUST HAVE ACCESS TO WebAssign.</font> The online homework will be part of your final grade!
+      If you are purchasing the Hybrid version shown above, the Access Code Card will be inside the textbook, just follow the instructions.<br>
+      <br>
+      You can also purchase the Access Code Card separately online, after loggin into your WebAssign account (you must register first into WebAssign, this step is free). The cost is about US$39 per students, per semester, for the "Enhanced Content from Cengage Learning". The prefix of our textbook is SERWAY-S.
+      
+      </div>
+      <div id="done"></div>
+      <br>
+      Acquire the textbook ASAP, and bring it to ALL classes (including the first!).
+      You can find it listed on Amazon, at our campus bookstore, at the publisher's
+      website (www.cengagebrain.com/isbn/<b>9781111572075</b> or www.cengagebrain.com/isbn/<b>9780840068484</b>), etc. 
+      You are free to look 
+      for better prices anywhere, you do not need to purchase the textbook from the
+      above mentioned sources. Students should also examine the option of renting the textbook: this is a new
+      program available through our campus bookstore and also online. More information can be found at <b>www.rent-a-text.com</b>.<br>
+      
+      &nbsp;
+     
+
+      <hr>
+
+
+      </div>
+      </div>
+
+    </div>
+    <!-- end #content -->
+    <div id="sidebar">
+      <ul>
+       <li>
+	  <dl compact="compact">
+	    <dd><a href="Docs/helpcenter.pdf"><b> Help Center Schedule (room T-16)</b></a></dd>
+	    <dd><a href="Docs/schedule_denicolo.pdf">Prof. Denicol&oacute's Schedule</a></dd>
+	    <dd><img src='club/images_club/icon_phi_small.png' width=20 height=20 border=0 alt=''><a href="http://sites.google.com/site/phyclubsccc/"><b> &nbsp &nbsp <span style="background-color: #FFFF00"><font color="black">The Physics Club at SCCC</span></font></b></a></dd>
+	    <dd><a href="Docs/library_reserved_books.pdf">List of books on reserve at the library</a></dd>
+	  
+	  </dl>
+	</li>
+	<li>
+	  <h2>Contact Information</h2>
+	  <dl compact="compact">
+	    <dt>e-mail (the best way to contact me)</dt>
+	    <dd>denicog AT sunysuffolk.edu</dd>
+	    <dt>Address</dt>
+	    <dd>Suffolk County Community College
+	    Dept. of Physical Sciences <br>
+          Smithtown Science Building <br>
+          533 College Road <br>
+          Selden, NY 11784-2899 <br>
+          <b>Office T-206</b></dd>
+	    <dt>Office phone (avoid it, if possible)</dt>
+	    <dd>631-451-4535</dd>
+	  </dl>
+      </li>
+	<li>
+	  <h2>College Links</h2>
+	  <ul>
+	    <li><a href="https://mysccc.sunysuffolk.edu/cp/home/displaylogin">My SCCC</a></li>
+          <li><a href="http://depthome.sunysuffolk.edu/Selden/TLC/">TLC Ammerman</a></li>
+	    <li><a href="http://www.sunysuffolk.edu/About/Catalog.asp">College Catalog</a></li>
+          <li><a href="http://www.sunysuffolk.edu/Students/Bookstore.asp">College Bookstores</a></li>
+	  </ul>
+	</li>
+	<li>
+	  <h2>External Links</h2>
+	  <ul>   
+          <li><a href="http://www.quickmath.com/webMathematica3/quickmath/page.jsp?s1=graphs&s2=equations&s3=basic">Plot a mathematical function</a></li>
+          <li><a href="http://physics-animations.com/Physics/English/index.htm">Animations and experiments</a></li>
+          <li><a href="http://www.physicscentral.com/">Physics Central</a></li>
+	    <li><a href="http://antwrp.gsfc.nasa.gov/apod/astropix.html">Astro Pic of the Day</a></li>
+          <li><a href="http://science.nasa.gov/">NASA Headline News</a></li>
+          <li><a href="http://www.aapt.org/">AAPT</a></li>
+          <li><a href="http://www.merriam-webster.com/">Merriam-Webster</a></li>
+	  </ul>
+	</li>
+      </ul>
+		</div>
+    <!-- end #sidebar -->
+    <div style="clear: both;">&nbsp;</div>
+  </div>
+  <!-- end #page -->
+  <div id="footer">
+    <p>CSS Template by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  </div>
+  <!-- end #footer -->
+</div>
+</body>
+</html>
