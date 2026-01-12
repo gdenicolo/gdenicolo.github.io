@@ -3105,7 +3105,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ffff03;
+			background-color: #9b33f5;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3123,7 +3123,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #ffff03;
+				background-color: #9b33f5; 
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
