@@ -3116,6 +3116,7 @@
 			button.special:hover,
 			.button.special:hover {
 				background-color: #ffff03;
+				color: #030000 !important;
 			}
 
 			input[type="submit"].special:active,
