@@ -2108,7 +2108,7 @@
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
 		/* color: #f56a6a;*/
-		color: #ffff03;
+		color: #9b33f5;
 		text-decoration: none;
 	}
 
@@ -3060,7 +3060,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-		    background-color:#9b33f5;
+		    background-color:#ffff03;
 		    /* rgba(245, 106, 106, 0.15); */
 		}
 
